@@ -2,24 +2,24 @@
 
 **Notes App** is a service that helps to add random notes to the server. It supports the following API.
 
-### POST NOTES
+### Post Notes
 Create a note
 
-Method : **POST**
+Method : **POST** <br/>
 API :  /notes
          
-### GET NOTES
+### Get Notes
 get a note from the server <br/>
 Method : **GET** <br/>
-API :    /notes/<note id> <br/>
+API :    /notes/note id <br/>
   
-### PUT NOTES
+### Put Notes
 modifies a note in the server <br/>
-Method : PUT <br/>
-API:     /notes/<note id>
+Method : **PUT** <br/>
+API:     /notes/note id
   
-### DELETE NOTES
+### Delete Notes
 deletes a note in the server <br/>
-Method : DELETE <br/>
-API :    /notes/<note id> <br/>
+Method : **DELETE** <br/>
+API :    /notes/note id <br/>
 
