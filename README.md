@@ -34,17 +34,17 @@ Shouldn't the formatting be made responsility of the client (so that any additio
 Note : **Sudheesh Udaya Varma likes to code**
 
 ### Left Align
-Sudheesh Udaya 
-Varma likes to 
-code  
+Sudheesh Udaya <\br>
+Varma likes to <\br>
+code  <\br>
 
 ### Right Align
- Sudheesh Udaya
- Varma likes to
-           code
+ Sudheesh Udaya <\br>
+ Varma likes to <\br>
+           code <\br>
 
 ### Centre Align
-Sudheesh
-Udaya Varma
-likes to code
+Sudheesh <\br>
+Udaya Varma <\br>
+likes to code <\br>
 
