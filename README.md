@@ -41,7 +41,7 @@ code  <br/>
 ### Right Align
  Sudheesh Udaya <br/>
  Varma likes to <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;code <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;code <br/>
 
 ### Centre Align
 Sudheesh <br/>
