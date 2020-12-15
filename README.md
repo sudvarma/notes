@@ -28,6 +28,7 @@ What are supported character set (UTF-8) behvaiour based on different charset.
 What if it is only one large word (proper error message)
 what if one of the word is larger than maxWidth (proper error message)
 Shouldn't the formatting be made responsility of the client (so that any additional formatting options are not removed)
+What if the given string is already broken? (Remove new line chars where required)
 
 # Client - formatting options
 
